@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Lottary/static/css/main.1ed9f25c.css",
+    "main.js": "/Lottary/static/js/main.8b929644.js",
+    "static/js/787.be48c326.chunk.js": "/Lottary/static/js/787.be48c326.chunk.js",
+    "static/media/Car.jpg": "/Lottary/static/media/Car.1e351618f23c703b2eed.jpg",
+    "index.html": "/Lottary/index.html",
+    "main.1ed9f25c.css.map": "/Lottary/static/css/main.1ed9f25c.css.map",
+    "main.8b929644.js.map": "/Lottary/static/js/main.8b929644.js.map",
+    "787.be48c326.chunk.js.map": "/Lottary/static/js/787.be48c326.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ed9f25c.css",
+    "static/js/main.8b929644.js"
+  ]
+}
