@@ -1,0 +1,107 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.message {
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.messagePopUp {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#items-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.marginLeft{
+    margin-left: 220px;
+}
+
+.marginDown{
+    margin-bottom: 20px;
+}
+
+.marginTop {
+    margin-top: 150px;
+}
+
+.marginRight{
+    margin-right: 220px;
+}
+
+.rightSide {
+    position: fixed;
+    top: 50%;
+    right: 0;
+    transform: translate(0, -50%);
+}
+  
+
+button:disabled {
+  background-color: rgb(185, 185, 185);
+  color:rgb(255, 255, 255);
+  font-weight: bold;
+}
+
+.address-container {
+    display: flex;
+    justify-content: space-between;
+}
+  
+.address-container .address {
+    width: 380px; 
+}
+  
+.address-container .address:nth-child(2) {
+    margin-left: auto;
+}
+
+.green{
+    color: black;
+    background-Color: rgb(75, 243, 75);
+}
+
+.red{
+    color: black;
+    background-Color: rgb(236, 61, 61);
+}
+
+.orange{
+    color: black;
+    background-Color: rgb(226, 175, 33);
+}
+
+.blue{
+    color: black;
+    background-Color:rgb(12, 243, 243)
+}
+
+.item {
+    width: 200px;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.itemTokens {
+    font-size: 40px;
+    font-weight: bold;
+    color: blue;   
+}
+
+button {
+    margin-top: 10px;
+}
+
+#actions-container {
+    margin-top: 50px;
+}
